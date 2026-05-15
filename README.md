@@ -1,4 +1,4 @@
-# BeyondSkyrimKnowledgePack
+# Beyond Reach Knowledge Pack
 
 A SkyrimNet world-knowledge pack for the Beyond Reach mod. Adds 346 entries across locations, quests, NPCs, and factions, with quest entries that adapt their narration to the player's current quest stage.
 Every entry's condition_expr keys off Beyond Reach-specific factions (arnimapeople, ArnimaGuard, ArnimaOrcs, DivideGuard, etc.). So the Beyond Reach lore only injects for NPCs tagged with those factions. Vanilla Skyrim characters never see it in their prompts.
